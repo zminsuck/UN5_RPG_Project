@@ -1,6 +1,3 @@
-// Vince Petrelli All Rights Reseved
-
-
 #include "DataAssets/Input/DataAsset_InputConfig.h"
 
 // 입력 시스템 관련 헤더
